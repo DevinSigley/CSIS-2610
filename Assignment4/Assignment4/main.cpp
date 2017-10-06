@@ -79,10 +79,3 @@ int main() {
 
 	return 0;
 }
-
-/*
-Write a C++ program that simulates a calculator
-Define the necessary variables to accomplish this task.
-Have your program print out the result of the calculation.
-Make sure to validate the user input and include comments in your code.
-*/
